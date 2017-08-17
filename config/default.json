@@ -1,0 +1,8 @@
+{
+	"db": {
+		"host": "localhost",
+		"database": "vendingmachine",
+		"user": "root",
+		"password": ""
+	}
+}
